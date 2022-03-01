@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, regulating the prices of ale and drinking-beer</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05729</idno>
+            <idno type="STC">Wing S1976</idno>
+            <idno type="STC">ESTC R183584</idno>
+            <idno type="EEBO-CITATION">52612339</idno>
+            <idno type="OCLC">ocm 52612339</idno>
+            <idno type="VID">179643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179643)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2794:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, regulating the prices of ale and drinking-beer</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Gibson, Alexander, Sir, d. 1693.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Given under Our Signet, at Edinburgh, the seventh day of December, and of Our Reign, the twenty eight year, 1676.</note>
+                  <note>Signed: Al. Gibson, Cl. Sti. Concilii.</note>
+                  <note>Imperfect: creased and stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brewing industry --  Prices --  Law and legislation --  Scotland --  Early works 1800.</term>
+               <term>Ale --  Prices --  Scotland --  Early works to 1800.</term>
+               <term>Beer --  Prices --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:179643:1" rendition="simple:additions"/>
+            <pb facs="tcp:179643:2" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Regulating the prices of Ale and Drinking-beer.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of <hi>Great Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith; To <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Macers or Meſſengers at armes, our She<g ref="char:EOLhyphen"/>riffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting: Foraſmuch as the Lords of Our Privy Council, in conſideration of the exorbitant prices taken by Brewers, and Ventiners, for Ale and drinking Beer, at their pleaſure, without obſerving any juſt proportion betwixt the ſame and the price of the boll of Beer; Did, by their Act and Proclamation, dated the Eighteenth of <hi>January,</hi> One thouſand ſix hundred and ſixty ſix, Ordain, when the price of the boll of beſt rough Beer of <hi>Lin<g ref="char:EOLhyphen"/>lithgow</hi> meaſure is ſix pounds ſcots, that the pynt of beſt Ale, and beſt drinking Beer ſhall be ſold at twelve pennies ſcots: That when the price of the beſt rough Beer ſhall be eight pounds ſcots the boll, the pynt of beſt Ale, and beſt drinking Beer be ſold at twenty pennies ſcots; And when the price of the beſt rough Beer is at ten pounds ſcots the boll, the pynt of beſt Ale, and beſt drinking Beer is to be ſold at two ſhillings ſcots: With the addition of two pennies ſcots on the pynt, to each of theſe pryces for the ordinar exciſe of all Towns, and Landwart Paroches, and of other two pennies on the pynt of Ale, and drinking-Beer, brewed, ſold, brought into, and made uſe of within the Burgh of <hi>Edinburgh,</hi> during the time contained in the Impoſition granted by Us, in behalf of the ſaid Burgh: By which Proclamation, it is declared, that the pryce of Barley Beer is not thereby <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pryce of Rough-Beer, but to be rated above the pryce of the Rough-Beer, according to the true intrinſick value thereof, which nevertheleſs is not to alter the pryce of the pynt of Ale, and drinking Beer above-expreſt: And in caſe the pryce of the Rough-Beer ſhall fall below ſix pounds, or ryſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ten pounds ſcots, that then the pryce of the Ale, and drinking-Beer ſhall ryſe, and fall accordingly: And for the better execution thereof, did appoint the Sheriffs, Juſtices of Peace, or other Magiſtrates, or any Heritor within the ſeveral Shires, to enquire after, and delate the tranſgreſſors within Burghs to the Magiſtrats, and theſe within Burghs to enquire after, and delate the tranſgreſſors within the Shire; and ordaining Sheriffs, and Magiſtrats to appoint Taſters, and Cunſters without and within Burghs, to ſee that the Ale and drin<g ref="char:EOLhyphen"/>king Beer be ſufficient, according to the ſaids prices: And diſcharging the ſelling of any Ale, or drinking Beer at any dearer rates than theſe aforeſaid, upon whatſoever colour or pretext, under the particular penalties, and certifications contained in the ſaid Proclamation. And We, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Eſtates of Parliament, conſidering the great neceſſity there was, of reſtraining the Brewers and Ventiners, from exacting of exorbitant prices for Ale, and drinking-Beer, and to regulate the ſame thereafter: Did by the fifteenth Act of the firſt Seſſion, of Our ſecond Parliament, Authorize the Lords of Our Privy Council, to regulate and ſet down the prices thereof, as they ſhould finde juſt and reaſonable, and to emit ſuch Acts, Orders, and Directions, in relation to the prices of Ale, and drinking-Beer, and to inflict ſuch Cenſures, Pains and Penalties upon the contraveeners thereof, as they ſhould think fit: And incaſe (after ſettling the ſaids prices by Our Council) any Brewers ſhould ceaſe, and give over their Brewing, or Venting of Ale and Beer; it is decla<g ref="char:EOLhyphen"/>red, they ſhall not be allowed to brew, or vent any Ale or drinking-Beer for the ſpace of one year thereafter: And be further ly<g ref="char:EOLhyphen"/>able to ſuch Pains and Penalties, as Our Council ſhall think fit to inflict. Notwithſtanding of which Acts, the Brewers and Ven<g ref="char:EOLhyphen"/>tiners, without any reſpect or regard thereto, do take upon them to exact and impoſe upon Our Leidges, pryces for Ale and drinking-Beer, far above the juſt proportion betwixt the ſame, and the pryce of the boll of Beer; Whereby Our Subjects, and eſpe<g ref="char:EOLhyphen"/>cially Tradeſ-men, Labourers, and other mean perſons, who cannot brew their own drink, and cannot ſubſiſt without the ſame, are heavily prejudged, and oppreſſed: Wherefore, We, with advice of the Lords of Our Privy Council, do hereby revive and renew Our ſaid former Proclamation, regulating the pryces of Ale, and drinking-Beer, and ordains the ſame to take effect, and to be put to further execution in all points; And do hereby reſcind, and repeal any poſterior Act, eſpecially an Act dated the twenty two of <hi>February,</hi> 1666. allowing the Brewers to brew double Ale at double prices above theſe mentioned in the ſaid Proclamation, and declares the ſame to be expired, and void in time coming. And further, We do hereby ordain, that if any of the Brewers, their Servants, or others to to their behoove, ſhall happen to buy rough-Beer at ſix pounds the boll, or at any other price under eight pounds the boll: And in the ſame year, if they ſhall happen to buy Beer at eight pounds, or at any other price below ten pounds the boll, the Brewers ſhall be obliged to make their Ale, and drinking-Beer of alſe great ſtrength at twelve pennies ſcots, for the Beer bought by them at any pryce below eight pounds the boll: As they or any other ſhall be obliged to brew the ſame at twenty pennies for ſuch Beer as they ſhall happen to buy at eight pounds, or any price below ten pounds the boll, with the addition as aforeſaid, for the exciſe: And in caſe, that one and the ſame Brewer ſhal happen to buy Beer of one and the ſame Crop, ſome at ſix pounds, or any other price below eight pounds, and ſome at eight pounds, or any other price below ten pounds: It is hereby declared, that every Brewer ſhall be obliged to give his Oath upon what quantities of Beer he ſhall brew, of diſtinct prices, or what he mixes together in one and the ſame browſt, and ſhall be obliged to ſell the whole brewſt of the Ale and drinking-Beer at the price of the Beer, at the loweſt Rate that is mixed. And incaſe the price of the boll of the beſt rough-Beer ſhall happen hereafter to fall under ſix pounds, or riſe above ten pounds ſcots, in theſe caſes, the price of the Ale and drinking-Beer is to be regulate as aforeſaid, and the Brewers are to give their Oaths accordingly: And it is hereby declared, incaſe any Brewer ſhall, after Regulation of the prices, as is above ſet down, deſert brewing; They ſhal be lyable for the Exciſe according to their former brewing, for the ſpace of ſix moneths thereafter: And ſhal be proceeded againſt, and puniſhed conform to the ſaid Act of Parliament: And for the more ready and exact execution hereof, all Brewers within the Town, and Shire of <hi>Edinburgh,</hi> and the Shires of <hi>Hadingto<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and <hi>Linlithgow,</hi> whoſe ſurvey Rolls are above two bolls brewing ilk week: Are hereby ordered and commanded, betwixt and the firſt of <hi>January</hi> next, to ſet ſufficient Caution acted in the Books of Our Privy Council, for payment of Our Annuity and Exciſe, and for obſerving and obeying Our foreſaid Proclamation, regulating the prices of Ale, and drinking-Beer, under the pains contained in the ſaid Act of Parliament; and diſcharges them of any further brewing after the ſaid day, except they find the ſaid Caution, and have a licence granted to them, from Our Council for brewing thereafter: And declares them further lyable to the certification contained in the ſaid Act of Parliament, in<g ref="char:EOLhyphen"/>caſe of fail<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie: And ordains the hail Brewers within the ſeveral Burghs-Royal to ſet Caution to the effect foreſaid, in pre<g ref="char:EOLhyphen"/>ſence of one of Our Privy Council, to be appointed for that effect, betwixt and the ſaid day, and to deſiſt from brewing ex<g ref="char:EOLhyphen"/>cept they ſet the ſaid Caution, and obtain licence for brewing thereafter: As alſo, that ſuch of the Brewers of all ſorts in the ſeveral Shires of the Kingdom; find the like Caution, in preſence of the Commiſſioners of Exciſe of the reſpective Shires, or any three of them; as the ſaids Commiſſioners ſhal think fit to order and appoint, betwixt and the firſt day of <hi>February</hi> next, who are hereby diſcharged to brew any thereafter, untill they finde the ſaid Caution, and obtain a licence for brewing, from the ſaids Commiſſioners, which licences ſo to be purchaſed, are to be given to the perſons concerned <hi>gratis:</hi> And incaſe any Brewers ſhal buy Malt, from any Malt. man, they ſhal be obliged to ſell their Ale, and drinking-Beer made of the ſaid malt, at the prices foreſaids, <hi>reſpectivè,</hi> with conſideration, and difference betwixt the price of the boll of Malt and Beer, conform to the Acts of Parliament: And, whereas the making Malt of Oats, and Peaſe, does hinder the conſumption of the Beer, and leſſens the quantities of Oats and Peaſe, to the prejudice of Tradeſ-men, Labour<g ref="char:EOLhyphen"/>ers, and the poorer ſort of the people: All Malt-men and Brewers, are hereby diſcharged to make uſe of the ſame for Malt in time coming; as they will be anſwerable: And being informed of ſeveral late exactions, and abuſes committed by Tapſters, We are reſolved to take particular notice thereof, and to make an equality and proportion betwixt the Brewer and Tapſter. And to the effect Our reſolutions in the premiſſes may receive timous, and due execution, The Lords of Our Privy Council have determined to appoint a Committee of their own number, to meet, and ſit, both in time of Seſſion, and Vacancy: Ordaining hereby this Our Proclamation, to begin and take effect, as to all places, on this ſide of the River of Tay, from, and after the firſt day of <hi>January</hi> next, and all places be<g ref="char:EOLhyphen"/>yond the ſame to the North-water, betwixt and the fifteenth of <hi>January,</hi> and all places beyond the ſaid water, and other places of the Kingdom, from and after the firſt day of <hi>February</hi> next. OUR WILL IS HEREFORE, And VVe charge you ſtraitly, and commands, that incontinent theſe Our Letters ſeen, ye paſſe to the Mercat-Croſſe of <hi>Edinburgh,</hi> and remanent head-Burghs of the Shires of this Kingdom; and thereat, in Our Name and Authority, by open Proclamation make publication of the premiſſes, that all Our Leidges and others concerned, may have notice thereof, according to Juſtice, as ye will anſwer to us hereupon. The which to do, We commit to you conjunctly and ſeverally, Our full power by theſe Our Letters, delivering them be you duely execute, and indorſat again to the bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet, at <hi>Edinburgh,</hi> 
+                  <date>the ſeventh day of <hi>December,</hi> and of Our Reign, the twenty eight year, 1676.</date>
+               </dateline>
+               <signed>Al. Gibſon, Cl. S<hi rend="sup">ti</hi> Concilii.</signed> God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty. <hi>Anno Dom. 1676.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
